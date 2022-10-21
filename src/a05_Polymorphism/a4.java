@@ -19,7 +19,7 @@ public class a4 extends a3 {
 	public static void main(String[] args) {
 		
 		a4 p=new a4();
-		p.grt(10, "prakash");
+		p.grt(10, "");
 
 	}
 

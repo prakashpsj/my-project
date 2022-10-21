@@ -18,6 +18,7 @@ public class child1 extends parent01 {
 		
 		d.s1();
 		d.s2();
+		
 
 	}
 

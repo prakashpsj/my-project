@@ -7,7 +7,7 @@ public class a2 {
 	public void m1() {
 		
 		System.out.println("i am m1");
-		//this.m2('p');
+		this.m2('p');
 		
 	}
 	

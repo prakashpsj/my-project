@@ -2,14 +2,14 @@ package a08_Abstraction_interface;
 
  interface prakash1{
 	 
-	 void p1();
+	abstract void p1();
 	 
-	 void p2();
+	abstract void p2();
 	 
 }
 interface prakash2{
 	
-	void p3();
+	abstract void p3();
 }
 
 public class cls2 implements prakash1,prakash2{

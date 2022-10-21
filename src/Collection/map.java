@@ -13,7 +13,7 @@ public class map {
 		
 		map.put("ID", 102);
 		map.put("Roll NO", 1);
-		map.put("Addrs", "Savkhed");
+		map.put("Addrs", "Savkhed");0
 		map.put("Pincode", 431116);
 		map.put("pass", 1234);
 		

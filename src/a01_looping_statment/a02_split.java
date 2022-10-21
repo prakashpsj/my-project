@@ -18,7 +18,7 @@ public class a02_split {
 		 
 		 String b4=b[3];   // PRAKASH
 		 
-		 System.out.println(b2);
+		// System.out.println(b2);
 	}
 
 }
